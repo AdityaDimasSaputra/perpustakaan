@@ -29,8 +29,9 @@
         </div>
     </div>
 </div> -->
-<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-4 px-lg-5">
+<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-2 px-lg-5">
     <a href="index.php" class="navbar-brand d-flex align-items-center">
+        <img class="img-fluid me-2" src="../assets/img/logo.png" alt="" style="width: 45px;">
         <h2 class="m-0 text-danger">BADAN PERPUSTAKAAN</h2>
     </a>
     <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">

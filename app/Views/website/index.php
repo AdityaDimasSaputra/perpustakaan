@@ -63,22 +63,29 @@
     </div>
     <!-- Informasi End -->
 
-
     <!-- Login Start -->
-    <div class="container-xxl bg-danger py-5 my-5">
-        <div class="container py-5">
-
+    <div class="container-fluid bg-danger py-5 my-5">
+        <div class="container-xxl">
+            <div class="row">
+                <div class="col-6">
+                    <h1 class="text-light text-center">LOGIN Untag Surabaya</h1>
+                    <p class="text-light text-center">Sistem Otomasi Perpustakaan Untag</p>
+                </div>
+                <div class="col-6">
+                    <a href="" class="btn btn-light py-3 px-10 animated slideInDown">Login</a>
+                    <a href="" class="btn btn-light py-3 px-10 animated slideInDown">Katalog Online</a>
+                </div>
+            </div>
         </div>
     </div>
     <!-- Login End -->
 
-
     <!-- Situs Intregrasi Start -->
-    <div class="container-xxl bg-light py-5 my-5">
+    <div class="container-fluid bg-light py-5 my-5">
         <div class="container py-5">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-6">Services</h1>
-                <p class="text-primary fs-5 mb-5">Buy, Sell And Exchange Cryptocurrency</p>
+                <h1 class="display-6">Online Library</h1>
+                <p class="text-danger fs-5 mb-5">Daftar Katalong yang dapat diakses online</p>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -135,21 +142,94 @@
                         <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-white p-5">
+                        <img class="img-fluid mb-4" src="../assets/img/icon-8.png" alt="">
+                        <h5 class="mb-3">Token Sale</h5>
+                        <p>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo
+                            justo</p>
+                        <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-white p-5">
+                        <img class="img-fluid mb-4" src="../assets/img/icon-8.png" alt="">
+                        <h5 class="mb-3">Token Sale</h5>
+                        <p>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo
+                            justo</p>
+                        <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item bg-white p-5">
+                        <img class="img-fluid mb-4" src="../assets/img/icon-8.png" alt="">
+                        <h5 class="mb-3">Token Sale</h5>
+                        <p>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo
+                            justo</p>
+                        <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
     <!-- Situs Integrasi End -->
 
     <!-- Berita Start -->
-
+    <div class="container-fluid bg-light py-5 my-5">
+        <div class="container py-5">
+            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <h1 class="display-6">Berita Terbaru</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-white p-5">
+                        <img class="img-fluid mb-4" src="../assets/img/icon-7.png" alt="">
+                        <h5 class="mb-3">Currency Wallet</h5>
+                        <p>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo
+                            justo</p>
+                        <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Berita End -->
 
     <!-- Pengunuman Start -->
-
+    <div class="container-fluid bg-light py-5 my-5">
+        <div class="container py-5">
+            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <h1 class="display-6">Pengumuman</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item bg-white p-5">
+                        <img class="img-fluid mb-4" src="../assets/img/icon-7.png" alt="">
+                        <h5 class="mb-3">Currency Wallet</h5>
+                        <p>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo
+                            justo</p>
+                        <a href="">Read More <i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Pengumuman End -->
 
     <!-- Kuisioner Start -->
-
+    <div class="container-fluid bg-danger py-5 my-5">
+        <div class="container-xxl">
+            <div class="row">
+                <div class="col-6">
+                    <h1 class="text-light text-center">Kuisioner Pelayanan</h1>
+                    <p class="text-light text-center">Kuesioner Pelayanan Perpustakaan Universitas 17 Agustus 1945 Surabaya</p>
+                </div>
+                <div class="col-6">
+                    <a href="" class="btn btn-light py-3 px-10 animated slideInDown">Kuisioner</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Kuisioner End -->
 
 

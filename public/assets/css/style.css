@@ -1,9 +1,8 @@
-/********** Template CSS **********/
-root {
+:root {
     --secondary: #999999;
     --light: #F2F8FE;
     --dark: #111111;
-    --danger: #f44336;
+    --danger: #ff1100;
 }
 
 .back-to-top {
@@ -73,7 +72,6 @@ h6,
     justify-content: center;
     font-weight: normal;
 }
-
 
 /*** Navbar ***/
 .navbar.sticky-top {
