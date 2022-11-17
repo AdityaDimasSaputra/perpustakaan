@@ -1,5 +1,6 @@
 /********** Template CSS **********/
 :root {
+    --danger: #dc3545;
     --primary: #16D5FF;
     --secondary: #999999;
     --light: #F2F8FE;
@@ -95,7 +96,7 @@ h6,
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
-    color: var(--primary);
+    color: var(--danger);
 }
 
 .navbar .dropdown-toggle::after {

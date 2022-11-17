@@ -1,144 +1,79 @@
-    <?php require_once "layout/header.php";?>
-    <?php require_once "layout/navbar.php";?>
-    <?php require_once "layout/slider.php";?>
+    <?php require_once "layout/header.php"; ?>
+    <?php require_once "layout/navbar.php"; ?>
+    <?php require_once "layout/slider.php"; ?>
 
 
-    <!-- About Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <img class="img-fluid" src="../assets/img/about.png" alt="">
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="h-100">
-                        <h1 class="display-6">About Us</h1>
-                        <p class="text-primary fs-5 mb-4">The Most Trusted Cryptocurrency Platform</p>
-                        <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.
-                            Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
-                        </p>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet
-                            diam et eos. Clita erat ipsum et lorem et sit.</p>
-                        <div class="d-flex align-items-center mb-2">
-                            <i class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></i>
-                            <span>Tempor erat elitr rebum at clita</span>
-                        </div>
-                        <div class="d-flex align-items-center mb-2">
-                            <i class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></i>
-                            <span>Tempor erat elitr rebum at clita</span>
-                        </div>
-                        <div class="d-flex align-items-center mb-4">
-                            <i class="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></i>
-                            <span>Tempor erat elitr rebum at clita</span>
-                        </div>
-                        <a class="btn btn-primary py-3 px-4" href="">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- About End -->
-
-    <!-- Facts Start -->
-    <div class="container-xxl bg-light py-5 my-5">
+    <!-- BADAN PERPUSTAKAAN UNIVERSITAS 17 AGUSTUS 1945 Start -->
+    <div class="container-fluid hero-header bg-light py-5 mb-5">
         <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.1s">
-                    <img class="img-fluid mb-4" src="../assets/img/icon-9.png" alt="">
-                    <h1 class="display-4" data-toggle="counter-up">123456</h1>
-                    <p class="fs-5 text-primary mb-0">Today Transactions</p>
+            <div class="row g-5 align-items-center">
+                <div class="col-lg-6">
+                    <h1 class="display-4 mb-3 animated slideInDown">BADAN PERPUSTAKAAN UNIVERSITAS 17 AGUSTUS 1945 SURABAYA</h1>
+                    <p class="animated slideInDown">Badan Perpustakaan Universitas 17 Agustus 1945 Surabaya berdiri sejak tahun 1972, semakin dengan berkembangnya Universitas, maka pada tahun 1986 perpustakaan menempati lantai dasar Graha Widya. Semakin banyaknya tuntutan perkembangan dari pengembangan sarana, koleksi dan organisasi, maka pada tahun 1990 perpustakaan mendapat gedung yang lebih luas yakni menempati gedung Graha Wiyata lantai II dan III dengan luas keseluruhan 2325.5 M2 Badan Perpustakaan Universitas 17 Agustus 1945</p>
+                    <a href="" class="btn btn-danger py-3 px-4 animated slideInDown">Lanjutkan</a>
                 </div>
-                <div class="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.3s">
-                    <img class="img-fluid mb-4" src="../assets/img/icon-10.png" alt="">
-                    <h1 class="display-4" data-toggle="counter-up">123456</h1>
-                    <p class="fs-5 text-primary mb-0">Monthly Transactions</p>
-                </div>
-                <div class="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.5s">
-                    <img class="img-fluid mb-4" src="../assets/img/icon-2.png" alt="">
-                    <h1 class="display-4" data-toggle="counter-up">123456</h1>
-                    <p class="fs-5 text-primary mb-0">Total Transactions</p>
+                <div class="col-lg-6 animated fadeIn">
+                    <img class="img-fluid animated pulse infinite" style="animation-duration: 3s;" src="../assets/img/monitor.png" alt="">
                 </div>
             </div>
         </div>
     </div>
-    <!-- Facts End -->
+    <!-- BADAN PERPUSTAKAAN UNIVERSITAS 17 AGUSTUS 1945 End -->
 
-
-    <!-- Features Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-6">Why Us!</h1>
-                <p class="text-primary fs-5 mb-5">The Best In The crypto Industry</p>
+    <!-- Informasi Start -->
+    <div class="container-xxl p-md-5 p-2">
+        <div class="row g-2 g-md-4">
+            <div class="col-6 col-md-3 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="d-flex align-items-start">
+                    <img class="img-fluid flex-shrink-0" src="../assets/img/layanan.png" alt="">
+                    <div class="ps-4">
+                        <h5 class="mb-3">Layanan</h5>
+                        <span>Layanan yang disediakan Badan Perpustakaan Untag Surabaya</span>
+                    </div>
+                </div>
             </div>
-            <div class="row g-5">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-7.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">Easy To Start</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
+            <div class="col-6 col-md-3 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="d-flex align-items-start">
+                    <img class="img-fluid flex-shrink-0" src="../assets/img/kerjasama.png" alt="">
+                    <div class="ps-4">
+                        <h5 class="mb-3">Kerjasama</h5>
+                        <span>Daftar Kerjasama Badan Perpustakaan Untag Surabaya</span>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-6.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">Safe & Secure</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
+            </div>
+            <div class="col-6 col-md-3 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="d-flex align-items-start">
+                    <img class="img-fluid flex-shrink-0" src="../assets/img/fasilitas.png" alt="">
+                    <div class="ps-4">
+                        <h5 class="mb-3">Fasilitas</h5>
+                        <span>Fasilitas Badan Perpustakaan Untag Surabaya</span>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-5.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">Affordable Plans</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-4.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">Secure Storage</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-3.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">Protected By Insurance</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="d-flex align-items-start">
-                        <img class="img-fluid flex-shrink-0" src="../assets/img/icon-8.png" alt="">
-                        <div class="ps-4">
-                            <h5 class="mb-3">24/7 Support</h5>
-                            <span>Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit
-                                clita duo justo</span>
-                        </div>
+            </div>
+            <div class="col-6 col-md-3 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="d-flex align-items-start">
+                    <img class="img-fluid flex-shrink-0" src="../assets/img/akses.png" alt="">
+                    <div class="ps-4">
+                        <h5 class="mb-3">Akses Informasi</h5>
+                        <span>Akses Informasi Badan Perpustakaan Untag Surabaya</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Features End -->
+    <!-- Informasi End -->
 
 
-    <!-- Service Start -->
+    <!-- Login Start -->
+    <div class="container-xxl bg-danger py-5 my-5">
+        <div class="container py-5">
+
+        </div>
+    </div>
+    <!-- Login End -->
+
+
+    <!-- Situs Intregrasi Start -->
     <div class="container-xxl bg-light py-5 my-5">
         <div class="container py-5">
             <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
@@ -203,7 +138,23 @@
             </div>
         </div>
     </div>
-    <!-- Service End -->
+    <!-- Situs Integrasi End -->
+
+    <!-- Berita Start -->
+
+    <!-- Berita End -->
+
+    <!-- Pengunuman Start -->
+
+    <!-- Pengumuman End -->
+
+    <!-- Kuisioner Start -->
+
+    <!-- Kuisioner End -->
+
+
+
+
 
 
     <!-- Roadmap Start -->
@@ -434,5 +385,5 @@
     </div> -->
     <!-- FAQs Start -->
 
-    <?php require_once "layout/footer.php";?>
-    <?php require_once "layout/script.php";?>
+    <?php require_once "layout/footer.php"; ?>
+    <?php require_once "layout/script.php"; ?>
